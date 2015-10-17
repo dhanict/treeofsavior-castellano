@@ -50,7 +50,7 @@ UI_20150317_000049	Nombre del Libro
 UI_20150317_000050	{@St59}Dejar de leer{/}
 UI_20150317_000051	{@st59}Página Anterior{/}
 UI_20150317_000052	{@st59}Página Siguiente{/}
-UI_20150317_000053	{@st47}¡%s apareció!
+UI_20150317_000053	{@st47}¡%s ha aparecido!
 UI_20150317_000054	{@st43}Puntuación{/}
 UI_20150317_000055	Daño Recibido
 UI_20150317_000056	Bonus por Técnica
@@ -90,115 +90,115 @@ UI_20150317_000089	{@sti7}{s14} Personaje {/}
 UI_20150317_000090	{@sti8}{s14} Clase {/}
 UI_20150317_000091	{@st44}Chat{/}
 UI_20150317_000092	A. WWWWWWWW y 1 más
-UI_20150317_000093	{memo X}General: escribe /s {nl} Shout: escribe /y {nl} Party: escribe /p{nl} Susurro: escribe /w "Nombre de Usuario"
+UI_20150317_000093	{memo X}General: escribe /s {nl} Grito: escribe /y {nl} Grupo: escribe /p{nl} Susurro: escribe /w "Nombre de Usuario"
 UI_20150317_000094	{@st41}Chat General{/}
 UI_20150317_000095	{@59}Salir{/}
 UI_20150317_000096	{@59}Invitar{/}
-UI_20150317_000097	{@st59}Todo{/}
-UI_20150317_000098	{@st59}General (escribir /s chat){/}
-UI_20150317_000099	{@st59}Grito (escribir /y){/}
-UI_20150317_000100	{@st59}Grupo (escribir /p){/}
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
-UI_20150317_000102	{@st59}Adjust Chat Window{/}
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}
+UI_20150317_000097	{@st59}Todos{/}
+UI_20150317_000098	{@st59}General (escribe /s){/}
+UI_20150317_000099	{@st59}Grito (escribe /y){/}
+UI_20150317_000100	{@st59}Grupo (escribe /p){/}
+UI_20150317_000101	{@st59}Susurro (escribe /w "Nombre de Usuario"){/}
+UI_20150317_000102	{@st59}Ajustar la ventana del Chat{/}
+UI_20150317_000103	{@st43}{s22}Macro de Chat{/}
 UI_20150317_000104	{@st43}Macro{/}
-UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag the gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
-UI_20150317_000106	{@st59}Close Macro{/}
-UI_20150317_000107	{@st41b}Save {/}
-UI_20150317_000108	{@st59}Save your changes{/}
-UI_20150317_000109	{@st41b}Cancel {/}
-UI_20150317_000110	{@st59}Cancel your changes{/}
-UI_20150317_000111	{@st42}Chat Settings
-UI_20150317_000112	{@st42}Transparency
-UI_20150317_000113	Show chat balloon
-UI_20150317_000114	Show shouts on top
-UI_20150317_000115	{@st43}Cheat List{/}
-UI_20150317_000116	{memo X}{@st42b}Item{/}
-UI_20150317_000117	{memo X}{@st42b}Monster{/}
-UI_20150317_000118	{memo X}{@st42b}Move map{/}
-UI_20150317_000119	{memo X}{@st42b}Combat Order{/}
-UI_20150317_000120	{@st41b}Close{/}
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
-UI_20150317_000122	{memo X}{s16}{b}ea
-UI_20150317_000123	{memo X}{s16}{b}Lv.
-UI_20150317_000124	{@st41b}Search{/}
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
-UI_20150317_000126	{memo X}{s16}{b}ea
-UI_20150317_000127	{s16}{b}Select a desired area.
-UI_20150317_000128	{s18}{b}View Minimap{/}
-UI_20150317_000129	{@st41b}Tool List{/}
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
-UI_20150317_000131	{@st59}Close Collection Information{/}
-UI_20150317_000132	{@st43}Collection{/}
-UI_20150317_000133	{@st43}Color Spray{/}
-UI_20150317_000134	{@st49}Color Spray{/}
+UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Instrucciones: {nl} 1. Arrastra el icono de gesto a cualquiera de las ranuras de gestos en la parte inferior. {nl} 2. Escribe tu frase y guarda. {nl} 3. Usa la tecla de acceso directo para usar la frase y hacer el gesto simultáneamente. {/}
+UI_20150317_000106	{@st59}Cerrar Macro{/}
+UI_20150317_000107	{@st41b}Guardar {/}
+UI_20150317_000108	{@st59}Guardar los cambios{/}
+UI_20150317_000109	{@st41b}Cancelar {/}
+UI_20150317_000110	{@st59}Cancelar los cambios{/}
+UI_20150317_000111	{@st42}Opciones del Chat
+UI_20150317_000112	{@st42}Transparencia
+UI_20150317_000113	Mostrar globo del Chat
+UI_20150317_000114	Mostrar gritos en la parte superior
+UI_20150317_000115	{@st43}Notas{/}
+UI_20150317_000116	{memo X}{@st42b}Objeto{/}
+UI_20150317_000117	{memo X}{@st42b}Monstruo{/}
+UI_20150317_000118	{memo X}{@st42b}Mover mapa{/}
+UI_20150317_000119	{memo X}{@st42b}Orden de Combate{/}
+UI_20150317_000120	{@st41b}Cerrar{/}
+UI_20150317_000121	{s16}{b}Crea objetos haciendo clic o doble clic en el botón Crear.
+UI_20150317_000122	{memo X}{s16}{b}cada uno
+UI_20150317_000123	{memo X}{s16}{b}Nv.
+UI_20150317_000124	{@st41b}Buscar{/}
+UI_20150317_000125	{s16}{b}Invoca monstruos hacienco clic o doble clic en el botón Crear.
+UI_20150317_000126	{memo X}{s16}{b}cada uno
+UI_20150317_000127	{s16}{b}Selecciona el área deseada.
+UI_20150317_000128	{s18}{b}Ver minimapa{/}
+UI_20150317_000129	{@st41b}Lista de Herramientas{/}
+UI_20150317_000130	{@st59b}Colección {nl}{@st59s}- Compra la Baraja de Colección para añadir tus objetos coleccionables a la misma. {nl} - La tecla de acceso directo Colección estará disponible cuando uses el objeto Baraja de Colección. {nl} {/}
+UI_20150317_000131	{@st59}Cerrar Información de la Colección{/}
+UI_20150317_000132	{@st43}Colección{/}
+UI_20150317_000133	{@st43}Pulverizador de Color{/}
+UI_20150317_000134	{@st49}Pulverizador de Color{/}
 UI_20150317_000135	{@st49}Color{/}
-UI_20150317_000136	{@st49}Remaining{/}
-UI_20150317_000137	{@st49}Brush{/}
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
-UI_20150317_000141	{@st49}Close{/}
-UI_20150317_000142	{@st43} Companion Adoption
-UI_20150317_000143	{@st59} Enter the name of your newly adopted companion {/}
-UI_20150317_000144	{@st41b}Name{/}
-UI_20150317_000145	{@st41b}Price %s{/}
-UI_20150317_000146	{@st59}Close the Companion Adoption window {/}
-UI_20150317_000147	{@st41b}Adopt
-UI_20150317_000148	{@st59}Confirm adoption {/}
-UI_20150317_000149	{@st43}Companion Shop
-UI_20150317_000150	{@st59}Close the Companion Shop{/}
-UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close the Character Information{/}
-UI_20150317_000153	{@st41b}Information
-UI_20150317_000154	{@st41b}Record
-UI_20150317_000155	Team Name
-UI_20150317_000156	Character Name
-UI_20150317_000157	Circle {#Ffff00}%s{/} %s Level {#ffff00}%s{/}
-UI_20150317_000158	Warrior
-UI_20150317_000159	{memo X}Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
-UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
-UI_20150317_000161	Total Achievements : {#ffff00}%s{/}
-UI_20150317_000162	Settings
-UI_20150317_000163	Clear the tab title to delete the tab.
-UI_20150317_000164	{@st49}All{/}
-UI_20150317_000165	{@st49}System{/}
-UI_20150317_000166	{@st49}Talk{/}
-UI_20150317_000167	{@st49}Combat{/}
-UI_20150317_000168	{@st49}Item{/}
-UI_20150317_000169	{@st43}Credits{/}
-UI_20150317_000170	{memo X}{@st43}Lock Target settings {/}
-UI_20150317_000171	NPC Name
-UI_20150317_000172	Compare
-UI_20150317_000173	Illustration
-UI_20150317_000174	Select a conversation
-UI_20150317_000175	Text Help
-UI_20150317_000176	{@st41}Item Crafting{/}
-UI_20150317_000177	{@st45tw2}Crafting the item...
-UI_20150317_000178	%r seconds
-UI_20150317_000179	{@st41}Cancel{/}
-UI_20150317_000180	{@st45tw2}Quantity{/}
-UI_20150317_000181	{@st45tw2}Do you want to craft this item?
-UI_20150317_000182	{@st41}Confirm{/}
-UI_20150317_000183	Quest Information
-UI_20150317_000184	{@st59}Cancel Trade{/}
-UI_20150317_000185	{@st43}Personal Trade{/}
-UI_20150317_000186	My Trading List
-UI_20150317_000187	Silver : %s
-UI_20150317_000188	{memo X}Enter
-UI_20150317_000189	{@st41}Accept
-UI_20150317_000190	{@st41}Confirm
-UI_20150317_000191	Other Player's(%s) Trading List
-UI_20150317_000192	Other Player's Name
-UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
-UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
-UI_20150317_000195	{s20}{ol}%s Would you like to join?
-UI_20150317_000196	{s20}{ol}Participants : (1/5)
-UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
-UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
-UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
-UI_20150317_000200	Do not show this anymore for today.
-UI_20150317_000201	Do not show Field Events.
+UI_20150317_000136	{@st49}Restante{/}
+UI_20150317_000137	{@st49}Brocha{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Dibujar{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Guardar{/}{/}
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importar{/}{/}
+UI_20150317_000141	{@st49}Cerrar{/}
+UI_20150317_000142	{@st43} Adoptar una Mascota
+UI_20150317_000143	{@st59} Introduce el nombre de tu nueva mascota adoptiva {/}
+UI_20150317_000144	{@st41b}Nombre{/}
+UI_20150317_000145	{@st41b}Precio %s{/}
+UI_20150317_000146	{@st59}Cerrar la ventana de Adoptar una Mascota {/}
+UI_20150317_000147	{@st41b}Adoptar
+UI_20150317_000148	{@st59}Confirmar adopción {/}
+UI_20150317_000149	{@st43}Tienda de Mascotas
+UI_20150317_000150	{@st59}Cerrar la Tienda de Mascotas{/}
+UI_20150317_000151	{@st43}Otra Información del Personaje{/}{@st42}
+UI_20150317_000152	{@st59}Cerrar la Información del Personaje{/}
+UI_20150317_000153	{@st41b}Información
+UI_20150317_000154	{@st41b}Grabar
+UI_20150317_000155	Nombre del Equipo
+UI_20150317_000156	Nombre del Personaje
+UI_20150317_000157	Círculo {#Ffff00}%s{/} %s Nivel {#ffff00}%s{/}
+UI_20150317_000158	Guerrero
+UI_20150317_000159	{memo X}Índice de la Aventura {#ffff00}%s{/} (Rango{#ffff00}%s{/}/%s)
+UI_20150317_000160	Índice de la Aventura {#ffff00}%s{/} ({#ffff00}Sin Rango{/})
+UI_20150317_000161	Logros Totales : {#ffff00}%s{/}
+UI_20150317_000162	Ajustes
+UI_20150317_000163	Borra el título de la pestaña para eliminarla.
+UI_20150317_000164	{@st49}General{/}
+UI_20150317_000165	{@st49}Sistema{/}
+UI_20150317_000166	{@st49}Chat{/}
+UI_20150317_000167	{@st49}Combate{/}
+UI_20150317_000168	{@st49}Objetos{/}
+UI_20150317_000169	{@st43}Créditos{/}
+UI_20150317_000170	{memo X}{@st43}Ajustes de Selección de Objetivo {/}
+UI_20150317_000171	Nombre del PNJ
+UI_20150317_000172	Comparar
+UI_20150317_000173	Ilustración
+UI_20150317_000174	Selecciona una conversación
+UI_20150317_000175	Texto de ayuda
+UI_20150317_000176	{@st41}Crear objeto{/}
+UI_20150317_000177	{@st45tw2}Creando el objeto...
+UI_20150317_000178	%r segundos
+UI_20150317_000179	{@st41}Cancelar{/}
+UI_20150317_000180	{@st45tw2}Cantidad{/}
+UI_20150317_000181	{@st45tw2}¿Quieres crear este objeto?
+UI_20150317_000182	{@st41}Confirmar{/}
+UI_20150317_000183	Información de la Misión
+UI_20150317_000184	{@st59}Cancelar Intercambio{/}
+UI_20150317_000185	{@st43}Intercambio Personal{/}
+UI_20150317_000186	Mi Lista de Intercambio
+UI_20150317_000187	Plata : %s
+UI_20150317_000188	{memo X}Introducir
+UI_20150317_000189	{@st41}Aceptar
+UI_20150317_000190	{@st41}Confirmar
+UI_20150317_000191	Lista de Intercambio de Otro Jugador(%s)
+UI_20150317_000192	Nombre de Otro Jugador
+UI_20150317_000193	{s18}{ol} {gr gradation1}Evento de Área{/}
+UI_20150317_000194	{s20}{ol}¡Derrota a la Vubbe Tribe! ¿Te gustaría unirte?
+UI_20150317_000195	{s20}{ol}%s ¿Te gustaría unirte?
+UI_20150317_000196	{s20}{ol}Participantes : (1/5)
+UI_20150317_000197	{s20}{ol}Participantes : (%s/%s)
+UI_20150317_000198	{s20}{ol}El juego comenzará en 1 segundo.
+UI_20150317_000199	{s20}{ol}El juego comenzará en %s segundos.
+UI_20150317_000200	No repetir el día de hoy.
+UI_20150317_000201	No mostrar los Eventos de Área.
 UI_20150317_000202	Join Game
 UI_20150317_000203	Start a game with other players.
 UI_20150317_000204	Decline game invite.
