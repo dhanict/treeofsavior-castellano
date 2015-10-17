@@ -7,7 +7,7 @@ Cottonlike (@Cottonlike) y yo (@Suketsune) estamos trabajando en este proyecto a
 
 ### Contacto
 
-¿Tienes alguna sugerencia o quieres ayudar de alguna forma? Envíanos un correo electrónico. Intentaremos responder lo antes posible.
+¿Tienes alguna sugerencia o quieres ayudar de alguna forma? Envíanos un [correo electrónico](mailto:epicsuketsune@gmail.com). Intentaremos responder lo antes posible.
 
 ### Donaciones
 
