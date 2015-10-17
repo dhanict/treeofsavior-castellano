@@ -209,7 +209,7 @@ UI_20150317_000208	{@st49}Eliminar{/}
 UI_20150317_000209	Introduce un nombre del archivo para guardarlo.
 UI_20150317_000210	{@st43}Amigos
 UI_20150317_000211	{@st59}Lista de Amigos Cercanos{/}
-UI_20150317_000212	{@st59b}Amigo{nl}{@st59s} - Hazte amigo de otro jugadores en el juego. {nl} - Puedes comprobar el estado de tus amigos a través de la pestaña Lista de Amigos. {nl} - En la pestaña de Gestión, puedes invitar, rechazar o bloquear a tus amigos. {/}
+UI_20150317_000212	{@st59b}Amigo{nl}{@st59s} - Hazte amigo de otros jugadores en el juego. {nl} - Puedes comprobar el estado de tus amigos a través de la pestaña Lista de Amigos. {nl} - En la pestaña de Gestión, puedes invitar, rechazar o bloquear a tus amigos. {/}
 UI_20150317_000213	{@st41b}Mostrar Amigos Online{/}
 UI_20150317_000214	{@st41b}Lista
 UI_20150317_000215	{@st41b}Gestión
