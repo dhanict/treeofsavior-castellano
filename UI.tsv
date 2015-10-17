@@ -1,58 +1,58 @@
-UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
-UI_20150317_000002	{@st43}Attribute List {/}
-UI_20150317_000003	{@st59}Close the Attribute List {/}
-UI_20150317_000004	{@st43}Learn Attributes{/}
-UI_20150317_000005	{@st59}Close Attributes window{/}
-UI_20150317_000006	{@st41b}Funds{/}
-UI_20150317_000007	My Achievements
-UI_20150317_000008	Server Ranking
-UI_20150317_000009	{@st59}An unexpected event is available.{/}
-UI_20150317_000010	{@st59}There is a new Help message{/}
-UI_20150317_000011	{@st41}Are you sure you want to craft this type of arrow?{/}
-UI_20150317_000012	{@st41b}Once{/}
-UI_20150317_000013	{@st41b}All{/}
-UI_20150317_000014	{@st41b}Pause{/}
-UI_20150317_000015	{@st43}Adventure Log{/}
-UI_20150317_000016	{@st43}Auction House{/}
-UI_20150317_000017	{@st59}Close the Auction House{/}
-UI_20150317_000018	{memo X}{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}
-UI_20150317_000019	{@st43}{s22}Item Auction{/}
-UI_20150317_000020	{@st59}Close Quest Information{/}
+UI_20150317_000001	{@st41b}Aprender Atributos{nl}de los Masters de cada clase.{/}
+UI_20150317_000002	{@st43}Lista de Atributos {/}
+UI_20150317_000003	{@st59}Cerrar la Lista de Atributos {/}
+UI_20150317_000004	{@st43}Aprender Atributos{/}
+UI_20150317_000005	{@st59}Cerrar la ventana de Atributos{/}
+UI_20150317_000006	{@st41b}Fondos{/}
+UI_20150317_000007	Mis Logros
+UI_20150317_000008	Clasificación del Servidor
+UI_20150317_000009	{@st59}Un nuevo evento está disponible.{/}
+UI_20150317_000010	{@st59}Hay un nuevo mensaje de Ayuda{/}
+UI_20150317_000011	{@st41}¿Seguro que quieres crear este tipo de flecha?{/}
+UI_20150317_000012	{@st41b}Una vez{/}
+UI_20150317_000013	{@st41b}Todas{/}
+UI_20150317_000014	{@st41b}Pausar{/}
+UI_20150317_000015	{@st43}Registro de la Aventura{/}
+UI_20150317_000016	{@st43}Casa de Subastas{/}
+UI_20150317_000017	{@st59}Cerrar la Casa de Subastas{/}
+UI_20150317_000018	{memo X}{@st41b}Objetos Vendidos : ×%s, Objetos no Vendidos : ×%s{/}
+UI_20150317_000019	{@st43}{s22}Subasta de Objeto{/}
+UI_20150317_000020	{@st59}Cerrar Información de la Misión{/}
 UI_20150317_000021	Availest
-UI_20150317_000022	{@st41b}Remaining Time
-UI_20150317_000023	3 hours 16 minutes
-UI_20150317_000024	{@st41b}Starting Price
-UI_20150317_000025	{@st41b}Bids
-UI_20150317_000026	{@st41b}Current Price
-UI_20150317_000027	{@st41b}Bidding Price
-UI_20150317_000028	{@st41b}Minimum Bid Price from {@st57}%s{@st41b}silver{/}
-UI_20150317_000029	{@st41b}Bid{/}
-UI_20150317_000030	{@st43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_000031	{@st44}Permission Settings{/}
-UI_20150317_000032	{@st45}Name: %s{/}
-UI_20150317_000033	{@st45}Party Warehouse{/}
-UI_20150317_000034	{@st49}None
-UI_20150317_000035	{@st49}Store
-UI_20150317_000036	{@st49}Retrieve
-UI_20150317_000037	{@st45}Survey{/}
-UI_20150317_000038	{@st49}Create
-UI_20150317_000039	{@st49}Delete
-UI_20150317_000040	{@st44}Save{/}
-UI_20150317_000041	{@st44}Cancel{/}
-UI_20150317_000042	{@st43}{s22}Hair Shop{/}
-UI_20150317_000043	{@st59}Previous Hairstyle{/}
-UI_20150317_000044	{@st59}Next Hairstyle{/}
-UI_20150317_000045	{@st41b} Change {s18} (100 iCoins required) {/}
-UI_20150317_000046	{@st59}Change to selected hairstyle.{/}
-UI_20150317_000047	{@st41}Cancel
-UI_20150317_000048	{@st43}Black Market{/}
-UI_20150317_000049	Name of Book
-UI_20150317_000050	{@St59}Stop reading{/}
-UI_20150317_000051	{@st59}Previous Page{/}
-UI_20150317_000052	{@st59}Next Page{/}
-UI_20150317_000053	{@st47}%s appeared!
-UI_20150317_000054	{@st43}Score{/}
-UI_20150317_000055	Damage Received
+UI_20150317_000022	{@st41b}Tiempo Restante
+UI_20150317_000023	3 horas 16 minutos
+UI_20150317_000024	{@st41b}Precio Inicial
+UI_20150317_000025	{@st41b}Pujas
+UI_20150317_000026	{@st41b}Precio Actual
+UI_20150317_000027	{@st41b}Precio de Puja
+UI_20150317_000028	{@st41b}Precio Mínimo de Puja desde {@st57}%s{@st41b}de plata{/}
+UI_20150317_000029	{@st41b}Pujar{/}
+UI_20150317_000030	{@st43b}¡Comprar Ahora!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_000031	{@st44}Configuración de Permisos{/}
+UI_20150317_000032	{@st45}Nombre: %s{/}
+UI_20150317_000033	{@st45}Almacén de Grupo{/}
+UI_20150317_000034	{@st49}Nada
+UI_20150317_000035	{@st49}Almacenar
+UI_20150317_000036	{@st49}Retirar
+UI_20150317_000037	{@st45}Examinar{/}
+UI_20150317_000038	{@st49}Crear
+UI_20150317_000039	{@st49}Eliminar
+UI_20150317_000040	{@st44}Guardar{/}
+UI_20150317_000041	{@st44}Cancelar{/}
+UI_20150317_000042	{@st43}{s22}Peluquería{/}
+UI_20150317_000043	{@st59}Peinado Anterior{/}
+UI_20150317_000044	{@st59}Peinado Siguiente{/}
+UI_20150317_000045	{@st41b} Cambiar {s18} (100 iCoins requeridos) {/}
+UI_20150317_000046	{@st59}Cambiar al peinado seleccionado.{/}
+UI_20150317_000047	{@st41}Cancelar
+UI_20150317_000048	{@st43}Mercado Negro{/}
+UI_20150317_000049	Nombre del Libro
+UI_20150317_000050	{@St59}Dejar de leer{/}
+UI_20150317_000051	{@st59}Página Anterior{/}
+UI_20150317_000052	{@st59}Página Siguiente{/}
+UI_20150317_000053	{@st47}¡%s apareció!
+UI_20150317_000054	{@st43}Puntuación{/}
+UI_20150317_000055	Daño Recivido
 UI_20150317_000056	Technique Bonus
 UI_20150317_000057	Evasion Bonus
 UI_20150317_000058	Clear Time
@@ -474,14 +474,14 @@ UI_20150317_000473	Register Rules
 UI_20150317_000474	{Gr gradation1}Cancel{/}
 UI_20150317_000475	Cancel Action
 UI_20150317_000476	{@st43}Companion Info
-UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}
+UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The atributos and equipped items of your Companion can be customized. {/}
 UI_20150317_000478	{@st59}Close Companion Info{/}
 UI_20150317_000479	{memo X}{@st41b}Name : {@sti9}%s{/}
 UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
 UI_20150317_000481	{memo X}{@st41b}EXP{/}
 UI_20150317_000482	{memo X}{@st41b}Stamina{/}
 UI_20150317_000483	{memo X}{@st41b}Closeness{/}
-UI_20150317_000484	{memo X}{@st41b}Attributes and Information
+UI_20150317_000484	{memo X}{@st41b}Atributos and Information
 UI_20150317_000485	{@st43}Companion{/}
 UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
 UI_20150317_000487	{@st59}Close Companion{/}
@@ -644,9 +644,9 @@ UI_20150317_000643	Crafting costs
 UI_20150317_000644	Crafting Qty
 UI_20150317_000645	Approximately %s seconds consumed
 UI_20150317_000646	{@st41}Create
-UI_20150317_000647	{memo X}${@st43}Skills & Attributes{/}
+UI_20150317_000647	{memo X}${@st43}Skills & Atributos{/}
 UI_20150317_000648	{memo X}${@st59}Close Classes & Skills{/}
-UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
+UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Atributos learned from your Masters can be seen below your skills. {/}
 UI_20150317_000650	{memo X}{@st41b}Apply{/}
 UI_20150317_000651	{@st59}Apply{/}
 UI_20150317_000652	Cleric
@@ -845,7 +845,7 @@ UI_20150317_000844	Apply to XML
 UI_20150317_000845	{#FFFFFF}{ds}Log
 UI_20150317_000846	{#FFFFFF}{ds}View all properties
 UI_20150317_000847	Enter search word
-UI_20150317_000848	All attribute values
+UI_20150317_000848	All atributo values
 UI_20150317_000849	{ol}Name
 UI_20150317_000850	{ol}Value
 UI_20150317_000851	$Rogue
@@ -877,7 +877,7 @@ UI_20150317_000876	{@st59}Enter the words you want to filter{/}
 UI_20150317_000877	{@st41}Create{/}
 UI_20150317_000878	{@st56}XML save{/}
 UI_20150317_000879	{@st56}Reset{/}
-UI_20150317_000880	{@st56}Attribute{/}
+UI_20150317_000880	{@st56}Atributo{/}
 UI_20150317_000881	{@st56}Value{/}
 UI_20150317_000882	{@st42}Content{/}
 UI_20150317_000883	{@st41}Undo{/}
@@ -1173,7 +1173,7 @@ UI_20150317_001172	{@St41}Create a new conversation
 UI_20150317_001173	{@St41}Full Conversation
 UI_20150317_001174	Region Name
 UI_20150317_001175	{@St41}Skill Names
-UI_20150317_001176	{@St41}Attribute Points
+UI_20150317_001176	{@St41}Atributo Points
 UI_20150317_001177	{@St41}Class Name
 UI_20150317_001178	Character Name
 UI_20150317_001179	{@Sti7}Delete{/}
@@ -1621,8 +1621,8 @@ UI_20150714_001620	{@st41b}Enhance
 UI_20150714_001621	{@st66}Items requiring a repair
 UI_20150714_001622	{@st43}Simoni
 UI_20150714_001623	{@st59}Increase skills{/}
-UI_20150714_001624	{@st59}Close Skills & Attributes{/}
-UI_20150714_001625	{@st43}Skills & Attributes{/}
+UI_20150714_001624	{@st59}Close Skills & Atributos{/}
+UI_20150714_001625	{@st43}Skills & Atributos{/}
 UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received : %s
 UI_20150714_001628	{memo X}{@st66b}Show EXP acquired{/}
@@ -1730,7 +1730,7 @@ UI_20150717_001729	{@st41}Battle Field
 UI_20150717_001730	Results
 UI_20150717_001731	{@st41}Move Immediately
 UI_20150717_001732	${@st41b}            A Team Name represents all your characters.{nl}                 It is a common name used within the game.{nl}                  Your Team Name can be changed later on.{/}
-UI_20150729_001733	{@st42}Show only attributes that can be learned{/}
+UI_20150729_001733	{@st42}Show only atributos that can be learned{/}
 UI_20150729_001734	Leg Count
 UI_20150729_001735	Height
 UI_20150729_001736	Weight
@@ -1744,7 +1744,7 @@ UI_20150729_001743	{@st41}Party Recruit Settings
 UI_20150729_001744	{@st42}Search for Party Members{/}
 UI_20150729_001745	When a player meets the criteria you set up, a [Party Match!] message will be shown on your screen.
 UI_20150729_001746	{@st41b}Recommended Player List{/}
-UI_20150729_001747	{@st41}Attribute Information
+UI_20150729_001747	{@st41}Atributo Information
 UI_20150729_001748	{@st59}Cancel Enhancement{/}
 UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select a gem or card from your inventory to enhance it.{nl} - All items with exception of quest items can be used as materials for enhancing gems.{nl} (Most effective when using a gem as material){nl} - Cards can only be enhanced by using other cards.{/}
 UI_20150729_001750	{#000000}{s22}Waiting to enter the server...
