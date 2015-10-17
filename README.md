@@ -13,6 +13,6 @@ Cottonlike (@Cottonlike) y yo (@Suketsune) estamos trabajando en este proyecto a
 
 Todo tipo de donación es aceptada y la agradeceremos muchísimo. Además, nos ayudará a motivarnos y a cubrir algunos costes si los hubiera. A petición, podemos añadir el nick de nuestros donadores en los créditos de esta traducción.
 
-### Intellectual Property Rights Ownership
+## Intellectual Property Rights Ownership
 
 Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
