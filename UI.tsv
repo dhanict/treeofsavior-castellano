@@ -199,105 +199,105 @@ UI_20150317_000198	{s20}{ol}El juego comenzará en 1 segundo.
 UI_20150317_000199	{s20}{ol}El juego comenzará en %s segundos.
 UI_20150317_000200	No repetir el día de hoy.
 UI_20150317_000201	No mostrar los Eventos de Área.
-UI_20150317_000202	Join Game
-UI_20150317_000203	Start a game with other players.
-UI_20150317_000204	Decline game invite.
-UI_20150317_000205	Spray Presets
-UI_20150317_000206	{@st49}Select{/}
-UI_20150317_000207	{@st49}Cancel{/}
-UI_20150317_000208	{@st49}Delete{/}
-UI_20150317_000209	Enter a file name to save.
-UI_20150317_000210	{@st43}Friends
-UI_20150317_000211	{@st59}Close Friends List{/}
-UI_20150317_000212	{@st59b}Friend{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status on your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
-UI_20150317_000213	{@st41b}Show online friends{/}
-UI_20150317_000214	{@st41b}List
-UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Friend Request
-UI_20150317_000217	{@st41b}Block
-UI_20150317_000218	{@st59}Search{/}
-UI_20150317_000219	{@st44}Guild{/}
-UI_20150317_000220	Guild
-UI_20150317_000221	List
-UI_20150317_000222	News
-UI_20150317_000223	Guild Mission
-UI_20150317_000224	Members Online
-UI_20150317_000225	{@st44}Create Guild{/}
-UI_20150317_000226	{@st42}Create{/}
-UI_20150317_000227	{@st42}Close{/}
-UI_20150317_000228	{@st42}All{/}
-UI_20150317_000229	{@st42}Today's Rankings{/}
-UI_20150317_000230	{@st42}Weekly Rankings{/}
-UI_20150317_000231	{@st56}Rank {/}
-UI_20150317_000232	{@st56}Points{/}
-UI_20150317_000233	{@st56}Class{/}
-UI_20150317_000234	{@st56}Name {/}
-UI_20150317_000235	Previous Page
-UI_20150317_000236	Next Page
-UI_20150317_000237	{@st42}Search ID{/}
-UI_20150317_000238	Enter the ID to search
-UI_20150317_000239	Close the Hall of Fame
-UI_20150317_000240	Enter the ID to search
+I_20150317_000202	Unirse al Juego
+UI_20150317_000203	Empezar un juego con otros jugadores.
+UI_20150317_000204	Rechazar invitación.
+UI_20150317_000205	Pulverizador Predeterminado
+UI_20150317_000206	{@st49}Seleccionar{/}
+UI_20150317_000207	{@st49}Cancelar{/}
+UI_20150317_000208	{@st49}Eliminar{/}
+UI_20150317_000209	Introduce un nombre del archivo para guardarlo.
+UI_20150317_000210	{@st43}Amigos
+UI_20150317_000211	{@st59}Lista de Amigos Cercanos{/}
+UI_20150317_000212	{@st59b}Amigo{nl}{@st59s} - Hazte amigo de otro jugadores en el juego. {nl} - Puedes comprobar el estado de tus amigos a través de la pestaña Lista de Amigos. {nl} - En la pestaña de Gestión, puedes invitar, rechazar o bloquear a tus amigos. {/}
+UI_20150317_000213	{@st41b}Mostrar Amigos Online{/}
+UI_20150317_000214	{@st41b}Lista
+UI_20150317_000215	{@st41b}Gestión
+UI_20150317_000216	{@st41b}Enviar Invitación de Amigo
+UI_20150317_000217	{@st41b}Bloquear
+UI_20150317_000218	{@st59}Buscar{/}
+UI_20150317_000219	{@st44}Gremio{/}
+UI_20150317_000220	Gremio
+UI_20150317_000221	Lista
+UI_20150317_000222	Noticias
+UI_20150317_000223	Misión de Gremio
+UI_20150317_000224	Miembros en Línea
+UI_20150317_000225	{@st44}Crear Gremio{/}
+UI_20150317_000226	{@st42}Crear{/}
+UI_20150317_000227	{@st42}Cerrar{/}
+UI_20150317_000228	{@st42}Todos{/}
+UI_20150317_000229	{@st42}Clasificación de Hoy{/}
+UI_20150317_000230	{@st42}Clasificación Semanal{/}
+UI_20150317_000231	{@st56}Rango {/}
+UI_20150317_000232	{@st56}Puntos{/}
+UI_20150317_000233	{@st56}Clase{/}
+UI_20150317_000234	{@st56}Nombre {/}
+UI_20150317_000235	Página Anterior
+UI_20150317_000236	Página Siguiente
+UI_20150317_000237	{@st42}Buscar ID{/}
+UI_20150317_000238	Introduce la ID para buscar
+UI_20150317_000239	Cierra el Salón de la Fama
+UI_20150317_000240	Introduce la ID para buscar
 UI_20150317_000241	{memo X}{@st59} Stamina {/}
-UI_20150317_000242	{@st43}Help List{/}
-UI_20150317_000243	{@st59}Close the Help List window{/}
-UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
-UI_20150317_000245	{@st43}{s22}Help{/}
-UI_20150317_000246	{@st47_b}{b}Help Topics{/}
-UI_20150317_000247	{@st42b}Simple Help Contents{/}
-UI_20150317_000248	{@st59}View details{/}
-UI_20150317_000249	Please enter a quantity
-UI_20150317_000250	{@st59}Enter the contents{/}
-UI_20150317_000251	{@st41b}Confirm
-UI_20150317_000252	{@st59}Confirm {/}
-UI_20150317_000253	{@st41b}Close
-UI_20150317_000254	{@st59}Cancel {/}
-UI_20150317_000255	{@st43}Warp{/}
-UI_20150317_000256	{@st59}Close Warp Window{/}
-UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
-UI_20150317_000258	{@st41}Current Location : %s{/}
-UI_20150317_000259	{@st43}{s22}Warp{/}
-UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
-UI_20150317_000261	What about Siauliai
-UI_20150317_000262	Coin Consumed : 0
-UI_20150317_000263	Intro
-UI_20150317_000264	{@st43}Inventory{/}
-UI_20150317_000265	{@st59}Close Inventory{/}
-UI_20150317_000266	{memo X}{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
-UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
-UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
-UI_20150317_000269	{@st59}Necklace{/}
-UI_20150317_000270	{@st59}Costume{/}
-UI_20150317_000271	{@st59}Top{/}
-UI_20150317_000272	{@st59}Gloves{/}
-UI_20150317_000273	{@st59}Pants{/}
-UI_20150317_000274	{@st59}Shoes{/}
-UI_20150317_000275	{@st59}Left Hand{/}
-UI_20150317_000276	{@st59}Right Hand{/}
-UI_20150317_000277	{@st59}Bracelet 1{/}
-UI_20150317_000278	{@st59}Bracelet 2{/}
-UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search{/}
-UI_20150317_000281	Weight
-UI_20150317_000282	{memo X}{@st43}Equipment Buff{/}
-UI_20150317_000283	{@st59}Close the Item Repair UI{/}
-UI_20150317_000284	{memo X}{@st42}Available for Buff
-UI_20150317_000285	{memo X}{@st42}Consume{/}
-UI_20150317_000286	{memo X}{@st42}Run
-UI_20150317_000287	{memo X}{@st42}Target Item{/}
-UI_20150317_000288	{@st59}Ring 1{/}
-UI_20150317_000289	{@st43}Item Crafting{/}
-UI_20150317_000290	{@st42b}Show only craftable items{/}
-UI_20150317_000291	{@st59}Close Item Crafting {/}
-UI_20150317_000292	{@st43}{s22}Split Item
-UI_20150317_000293	{@st59}Enter a quantity{/}
-UI_20150317_000294	Monster HP Bar
-UI_20150317_000295	{@st44}Item Set acquired{/}
-UI_20150317_000296	Keyboard Warrior
+UI_20150317_000242	{@st43}Lista de Ayuda{/}
+UI_20150317_000243	{@st59}Cerrar la Lista de Ayuda{/}
+UI_20150317_000244	{@st59b}Lista de Ayuda{nl}{@st59s} - Si necesitas ayuda con cualquier cosa, siempre puedes leer los Temas de Ayuda. {nl} - Selecciona un Tema de Ayuda para ver más información. {/}
+UI_20150317_000245	{@st43}{s22}Ayuda{/}
+UI_20150317_000246	{@st47_b}{b}Temas de Ayuda{/}
+UI_20150317_000247	{@st42b}Contenidos de Ayuda Simples{/}
+UI_20150317_000248	{@st59}Ver detalles{/}
+UI_20150317_000249	Por favor, introduce una cantidad
+UI_20150317_000250	{@st59}Introduce el contenido{/}
+UI_20150317_000251	{@st41b}Confirmar
+UI_20150317_000252	{@st59}Confirmar {/}
+UI_20150317_000253	{@st41b}Cerrar
+UI_20150317_000254	{@st59}Cancelar {/}
+UI_20150317_000255	{@st43}Portal{/}
+UI_20150317_000256	{@st59}Cerrar ventana de Portales{/}
+UI_20150317_000257	{@st59b}Portal{nl}{@st59s} - Te permite viajar rápidamente a regiones que ya has visitado. {nl} - Esta caracterísitca se activa cuando dos o más portales están disponibles. {nl} {/}
+UI_20150317_000258	{@st41}Localización actual : %s{/}
+UI_20150317_000259	{@st43}{s22}Portal{/}
+UI_20150317_000260	{@st41b}¿Quieres desplazarte a este área?{/}
+UI_20150317_000261	¿Qué hay de Siauliai?
+UI_20150317_000262	Moneda Cosumida : 0
+UI_20150317_000263	Entrar
+UI_20150317_000264	{@st43}Inventario{/}
+UI_20150317_000265	{@st59}Cerrar Inventario{/}
+UI_20150317_000266	{memo X}{@st59b}Equipar {nl} {@st59s}- Peinado/Vestuario: Equipo para cambiar el aspecto del personaje. {nl} - Arma: Puedes equipar armas de una mano o dos manos {nl} (Una segunda arma o escudo pueden ser equipados con un arma de una mano) {nl} - Armadura: Parte de Arriba, Pantalones, Guantes, Calzado. {nl} - Accesorios: Puedes equipar 1 Collar y 2 Pulseras. {nl} {/}
+UI_20150317_000267	{@st59}Vestuario de Peluquería 1{/}
+UI_20150317_000268	{@st59}Vestuario de Peluquería 2{/}
+UI_20150317_000269	{@st59}Collar{/}
+UI_20150317_000270	{@st59}Vestuario{/}
+UI_20150317_000271	{@st59}Parte de Arriba{/}
+UI_20150317_000272	{@st59}Guantes{/}
+UI_20150317_000273	{@st59}Pantalones{/}
+UI_20150317_000274	{@st59}Calzado{/}
+UI_20150317_000275	{@st59}Mano Izquierda{/}
+UI_20150317_000276	{@st59}Mano Derecha{/}
+UI_20150317_000277	{@st59}Pulsera 1{/}
+UI_20150317_000278	{@st59}Pulsera 2{/}
+UI_20150317_000279	{@st59}Brazalete{/}
+UI_20150317_000280	{@st59}Buscar{/}
+UI_20150317_000281	Peso
+UI_20150317_000282	{memo X}{@st43}Mejora de Equipo{/}
+UI_20150317_000283	{@st59}Cerrar la IU de Reparación de Objetos{/}
+UI_20150317_000284	{memo X}{@st42}Disponible para Mejora
+UI_20150317_000285	{memo X}{@st42}Consumir{/}
+UI_20150317_000286	{memo X}{@st42}Correr
+UI_20150317_000287	{memo X}{@st42}Seleccionar objeto{/}
+UI_20150317_000288	{@st59}Anillo 1{/}
+UI_20150317_000289	{@st43}Creación de objeto{/}
+UI_20150317_000290	{@st42b}Mostrar solo objetos creables{/}
+UI_20150317_000291	{@st59}Cerrar Creación de Objeto {/}
+UI_20150317_000292	{@st43}{s22}Separar objeto
+UI_20150317_000293	{@st59}Introduce una cantidad{/}
+UI_20150317_000294	Barra de HP del Monstruo
+UI_20150317_000295	{@st44}Adquirido Objeto de Conjunto{/}
+UI_20150317_000296	Guerrero del Teclado
 UI_20150317_000297	Kills
-UI_20150317_000298	99 minutes 99 seconds
-UI_20150317_000299	38000 points
-UI_20150317_000300	Enhanced Speed Potion
+UI_20150317_000298	99 minutos 99 segundos
+UI_20150317_000299	38000 puntos
+UI_20150317_000300	Poción de Velocidad Mejorada
 UI_20150317_000301	{@st41}Confirmar{/}
 UI_20150317_000302	${@st59b} Diario de la Aventura {nl}{@st59s}- Tu progreso en el juego es grabado en el Diario de la Aventura. {nl} - Puedes progresar tú Índice de la Aventura a través de contenidos como: obtener y crear objetos, cazar monstruos y explorar mapas.{nl}    Índice de la Aventura : El total de todos tus índices. {nl}    Aumento : 5 puntos por cada nivel de personaje y de clase {nl}    Objetos : Equipo : grado X 10 puntos, Libros : 10 puntos, Otros : 1 punto {nl}    Monstruos : 10 puntos por monstruo (50 puntos por Monstruos Jefe) {nl}    Mapas : 1 punto por cada 10% explorado {nl}    Misiones : 1 punto por misión {nl}    Logros : Varía segun el logro {nl}    Crear objetos : 10 puntos {nl}    Colección : 5 puntos por mazo y 45 puntos cuando este sea completado {nl} - Puedes recibir recompensas especiales de un PNJ en la ciudad dependiendo de tu Índice de la Aventura. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Logros{/}
