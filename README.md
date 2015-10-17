@@ -3,7 +3,7 @@ Este repisotorio ha sido creado con el fin de completar nuestro proyecto **Tree 
 
 Además, creemos que los nombres de los monstruos, clases y habilidades (entre otros) no deberían traducirse al castellano en su totalidad para no perder la esencia del juego. Si estáis de acuerdo con las declaraciones anteriores, esta es la traducción que deberíais elegir.
 
-Podéis visitar el GitHub del proyecto [aquí](https://github.com/Suketsune/treeofsavior-castellano/).
+Podéis visitar la página web del proyecto [aquí](http://suketsune.github.io/treeofsavior-castellano/).
 
 ### Ejemplo de nuestra traducción
     UI_20150317_000001  {@st41b}Aprender Atributos{nl}de los Masters de cada clase.{/}
