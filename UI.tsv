@@ -491,7 +491,7 @@ UI_20150317_000490	{@st43}Ayuda{/}
 UI_20150317_000491	Temas de Ayuda
 UI_20150317_000492	{ol}{#AAAA00}{s16}Tiempo Transcurrido : %s
 UI_20150317_000493	{@st43}Frasco de Veneno{/}
-UI_20150317_000494	{@st59}Cerrar IU DE Frasco de Veneno{/}
+UI_20150317_000494	{@st59}Cerrar IU De Frasco de Veneno{/}
 UI_20150317_000495	{@st59}Necesidad de escribir{/}
 UI_20150317_000496	{memo X}Cantidad de Veneno: %s
 UI_20150317_000497	{memo X}Objetos que pueden usarse para crear veneno
@@ -505,7 +505,7 @@ UI_20150317_000504	{@st43}Objeto{/}
 UI_20150317_000505	{@st43}Nivel{/}
 UI_20150317_000506	{@st43}Fondos{/}
 UI_20150317_000507	{@st43}Evaluar{/}
-UI_20150317_000508	{@st43}índice de Victorías en JcJ{/}
+UI_20150317_000508	{@st43}Índice de Victorias en JcJ{/}
 UI_20150317_000509	{@st59}Cerrar{/}
 UI_20150317_000510	{@sti5}Cantidad Total a Comprar : %s{/}
 UI_20150317_000511	{@sti5}Cantidad Total : %s{/}
@@ -513,7 +513,7 @@ UI_20150317_000512	{@st41b} Comprar
 UI_20150317_000513	{memo X}{@st43}¡Materiales obtenidos para crear un objeto!
 UI_20150317_000514	{@st43}Magnum Opus{/}
 UI_20150317_000515	{@st41}Eliminar Todos
-UI_20150317_000516	{memo X}{@st42}Pension objeto {@stx1}(%s required){/}
+UI_20150317_000516	{memo X}{@st42}Objetos de Pension {@stx1}(%s requeridos){/}
 UI_20150317_000517	{@st41}Combinar
 UI_20150317_000518	{@st43}Misión{/}
 UI_20150317_000519	${@st59b}Misiones{nl}{@st59s} - Cuando adquieras una nueva misión, esta se añadirá a tu Rastreador de Misiones. {nl} - Las misiones principales se muestran en color amarillo, mientras una misión secundaria se muestra en azul. {nl} - Las flechas en los pies de tu personaje te guían la localización de tu misión. {nl} - Si completas una misión, un icono de "Regresar" se mostrará en el Rastreador de Misiones. {nl}    (Teletranspórtate al NPJ de la Misión usando la Barra Espaciadora o un clic del ratón) {nl} - Añade o elimina misiones del Rastreador de Misiones marcando o desmarcando la casilla delante del nombre de la misión. {/}
