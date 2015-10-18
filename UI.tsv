@@ -398,206 +398,206 @@ UI_20150317_000397	{@st42}Crear{/}
 UI_20150317_000398	{@st42} Cancelar {/}
 UI_20150317_000399	Información de %s
 UI_20150317_000400	Kepa o ...
-UI_20150317_000401	{@st41}{Details}
-UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
+UI_20150317_000401	{@st41}{Detalles}
+UI_20150317_000402	{s20}{#050505}Descripción del Monstruo Descripción del Monstruo Descripción del Monstruo Descripción del Monstruo
 UI_20150317_000403	{@st41} Kill {/}
 UI_20150317_000404	{@st41} Overkill {/}
 UI_20150317_000405	{@st41} Normal Kill {/}
-UI_20150317_000406	{@st41} Area {/}
-UI_20150317_000407	{@st41} Item {/}
-UI_20150317_000408	{@st41} Achievement {/}
-UI_20150317_000409	Object
+UI_20150317_000406	{@st41} Área {/}
+UI_20150317_000407	{@st41} Objeto {/}
+UI_20150317_000408	{@st41} Logro {/}
+UI_20150317_000409	Objeto
 UI_20150317_000410	{@st43}Necronomicon{/}
-UI_20150317_000411	{@st59}Close Necronomicon UI{/}
-UI_20150317_000412	{memo X}{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoning Item : {#ffcc33}%s{/}
+UI_20150317_000411	{@st59}Cerrar UI del Necronomicon {/}
+UI_20150317_000412	{memo X}{@st59}Soy muy perezoso como para pensar.{/}
+UI_20150317_000413	Invocando Objeto : {#ffcc33}%s{/}
 UI_20150317_000414	{memo X}Undead Harpy
-UI_20150317_000415	{memo X}Skill : %s
-UI_20150317_000416	{memo X}Skill 1, Skill 2
-UI_20150317_000417	{memo X}Fragments needed : %s
-UI_20150317_000418	{memo X}Beast 60 / Insect 20/ Mutant 10
-UI_20150317_000419	Number of fragments
-UI_20150317_000420	{memo X}Parts 1
-UI_20150317_000421	{memo X}Parts 2
-UI_20150317_000422	{memo X}Parts 3
-UI_20150317_000423	Congratulations! Your level has increased.
-UI_20150317_000424	Item Alarm
-UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	${@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	${@st42b}         Use a basic attack{/}
-UI_20150317_000429	${@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}     Use two keys together to move diagonally{/}
-UI_20150317_000431	Fog Map Tool
-UI_20150317_000432	Tool for killing monsters
-UI_20150317_000433	Tool for making minimap
-UI_20150317_000434	Dialogue tool
-UI_20150317_000435	{@st43}GM Settings{/}
-UI_20150317_000436	{@st59}Close Party Information{/}
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}
-UI_20150317_000438	{@st43}Party Information{/}
-UI_20150317_000439	{@st41b}Members{/}
-UI_20150317_000440	{@st41b}Party Event {/}
-UI_20150317_000441	{@st41b}Settings{/}
-UI_20150317_000442	{memo X}{@st41}Members{/}
-UI_20150317_000443	{memo X}{@st41}Conditions for joining party
-UI_20150317_000444	{memo X}{@st41b}Public
-UI_20150317_000445	{memo X}{@st41b}Private
-UI_20150317_000446	{memo X}Required Level ~
-UI_20150317_000447	{memo X}{@st41}Item Priority
-UI_20150317_000448	{memo X}{@st41b}Individual Loot
-UI_20150317_000449	{memo X}{@st41b}Round Robin
-UI_20150317_000450	{memo X}{@st41b}Random
-UI_20150317_000451	{memo X}{@st41}EXP Priority
-UI_20150317_000452	{memo X}{@st41b}Individual EXP
-UI_20150317_000453	{memo X}{@st41b}Equal EXP
-UI_20150317_000454	{memo X}{@st41b}By Level
-UI_20150317_000455	{memo X}{@st41}Quest Sharing
-UI_20150317_000456	{memo X}{@st41b}Enabled
-UI_20150317_000457	{memo X}{@st41b}Disabled
-UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}
-UI_20150317_000461	{@st59}Close Party List{/}
-UI_20150317_000462	Use Search
-UI_20150317_000463	Quest Sharing
-UI_20150317_000464	EXP Priority
-UI_20150317_000465	Item Priority
-UI_20150317_000466	{@st43}Invite
-UI_20150317_000467	{@st41b}Invite{/}
+UI_20150317_000415	{memo X}Habilidad : %s
+UI_20150317_000416	{memo X}Habilidad 1, Habilidad 2
+UI_20150317_000417	{memo X}Fragmentos requeridos : %s
+UI_20150317_000418	{memo X}Bestia 60 / Insecto 20/ Mutante 10
+UI_20150317_000419	Número de fragmentos
+UI_20150317_000420	{memo X}Partes 1
+UI_20150317_000421	{memo X}Partes 2
+UI_20150317_000422	{memo X}Partes 3
+UI_20150317_000423	¡Felicidades! Has subido de nivel.
+UI_20150317_000424	Alarma de Objeto
+UI_20150317_000425	{@st64}Detalles{/}
+UI_20150317_000426	Cómo jugar
+UI_20150317_000427	${@st42b}          Muévete una vez con cada una de las flechas del teclado.{/}
+UI_20150317_000428	${@st42b}         Usa un ataque básico.{/}
+UI_20150317_000429	${@st42b}                Salta{/}
+UI_20150317_000430	{@st42b}     Usa dos flechas del teclado para moverte diagonalmente.{/}
+UI_20150317_000431	Herramienta de Niebla en el Mapa
+UI_20150317_000432	Herramienta para matar monstruos
+UI_20150317_000433	Herramienta para hacer un minimapa
+UI_20150317_000434	Herramienta de diálogo
+UI_20150317_000435	{@st43}Ajustes de MJ{/}
+UI_20150317_000436	{@st59}Cerrar la Información del Grupo{/}
+UI_20150317_000437	{@st59b}Información del Grupo{nl}{@st59s} - Haz clic en el botón "Crear grupo" para crear uno. {nl} - Haz clic derecho en otros jugadores para enviar una invitación de grupo.{nl} - Puedes hacer cambios en el grupo a través de la pestaña Ajustes. {nl} - Establece condiciones específicas para buscar miembros desde la Lista de Grupo Pública. {/}
+UI_20150317_000438	{@st43}Información del Grupo{/}
+UI_20150317_000439	{@st41b}Miembros{/}
+UI_20150317_000440	{@st41b}Evento de Grupo {/}
+UI_20150317_000441	{@st41b}Ajustes{/}
+UI_20150317_000442	{memo X}{@st41}Miembros{/}
+UI_20150317_000443	{memo X}{@st41}Condiciones para unirte al grupo
+UI_20150317_000444	{memo X}{@st41b}Público
+UI_20150317_000445	{memo X}{@st41b}Privado
+UI_20150317_000446	{memo X}Nivel requerido ~
+UI_20150317_000447	{memo X}{@st41}Prioridad de Objeto
+UI_20150317_000448	{memo X}{@st41b}Botín individual
+UI_20150317_000449	{memo X}{@st41b}Por turnos
+UI_20150317_000450	{memo X}{@st41b}Aleatorio
+UI_20150317_000451	{memo X}{@st41}Prioridad de EXP
+UI_20150317_000452	{memo X}{@st41b}EXP Individual
+UI_20150317_000453	{memo X}{@st41b}Compartir EXP
+UI_20150317_000454	{memo X}{@st41b}Por Nivel
+UI_20150317_000455	{memo X}{@st41}Compartir Misiones
+UI_20150317_000456	{memo X}{@st41b}Habilitar
+UI_20150317_000457	{memo X}{@st41b}Deshabilitar
+UI_20150317_000458	{@st41b}Crear Grupo
+UI_20150317_000459	{@st43}Lista de Grupo Pública{/}
+UI_20150317_000460	${@st59b}Lista de Grupo Pública{nl}{@st59s} - Busca grupos a los que te quieras unir. {nl} - Elegir "Usar Búsqueda" usa tus condiciones de búsqueda para ayudarte a encontrar grupos. {/}
+UI_20150317_000461	{@st59}Cerrar Lista de Grupo{/}
+UI_20150317_000462	Usar Búsqueda
+UI_20150317_000463	Compartir Misión
+UI_20150317_000464	Prioridad de EXP
+UI_20150317_000465	Prioridad de Objeto
+UI_20150317_000466	{@st43}Invitar
+UI_20150317_000467	{@st41b}Invitar{/}
 UI_20150317_000468	{memo X}{s18}{ol}{gr gradation1}Logout PC rules{/}
-UI_20150317_000469	{ol}Conditions for applying rules
-UI_20150317_000470	{ol}Action for applying rules
-UI_20150317_000471	Enter a name for the rule
-UI_20150317_000472	{Gr gradation1}Registration{/}
-UI_20150317_000473	Register Rules
-UI_20150317_000474	{Gr gradation1}Cancel{/}
-UI_20150317_000475	Cancel Action
-UI_20150317_000476	{@st43}Companion Info
-UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The atributos and equipped items of your Companion can be customized. {/}
-UI_20150317_000478	{@st59}Close Companion Info{/}
-UI_20150317_000479	{memo X}{@st41b}Name : {@sti9}%s{/}
-UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
+UI_20150317_000469	{ol}Condiciones para aplicar las normas
+UI_20150317_000470	{ol}Acción para aplicar normas
+UI_20150317_000471	Introduce un nombre para la norma
+UI_20150317_000472	{Gr gradation1}Registro{/}
+UI_20150317_000473	Registrar normas
+UI_20150317_000474	{Gr gradation1}Cancelar{/}
+UI_20150317_000475	Cancelar Acción
+UI_20150317_000476	{@st43}Información de la Mascota
+UI_20150317_000477	{@st59b} Información de la Mascota{nl}{@st59s} - Puedes configurar a tu Mascota como Activa o ponerla en Modo Descanso usando en botón de abajo. {nl} - Los atributos y el equipo de tu Mascota pueden ser personalizados. {/}
+UI_20150317_000478	{@st59}Cerrar Información de la Mascota{/}
+UI_20150317_000479	{memo X}{@st41b}Nombre : {@sti9}%s{/}
+UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Proximidad : {@sti9}%s {@st41b}Nivel{/}
 UI_20150317_000481	{memo X}{@st41b}EXP{/}
 UI_20150317_000482	{memo X}{@st41b}Stamina{/}
-UI_20150317_000483	{memo X}{@st41b}Closeness{/}
-UI_20150317_000484	{memo X}{@st41b}Atributos and Information
-UI_20150317_000485	{@st43}Companion{/}
-UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
-UI_20150317_000487	{@st59}Close Companion{/}
-UI_20150317_000488	{@st59}Close Help window{/}
-UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
-UI_20150317_000490	{@st43}Help{/}
-UI_20150317_000491	Help Topics
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s
-UI_20150317_000493	{@st43}Poison Pot{/}
-UI_20150317_000494	{@st59}Close Poison Pot UI{/}
-UI_20150317_000495	{@st59}Need to write{/}
-UI_20150317_000496	{memo X}The amount of poison: %s
-UI_20150317_000497	{memo X}Items that can be used to Craft poison
-UI_20150317_000498	{memo X}Select All
-UI_20150317_000499	Click again to unselect all
-UI_20150317_000500	{memo X}Crafting
-UI_20150317_000501	{memo X}shuffle shuffle mix and shuffle
-UI_20150317_000502	{@st43}Category{/}
-UI_20150317_000503	{@st43}Me{/}
-UI_20150317_000504	{@st43}Object{/}
-UI_20150317_000505	{@st43}Level{/}
-UI_20150317_000506	{@st43}Funds{/}
-UI_20150317_000507	{@st43}Rate{/}
-UI_20150317_000508	{@st43}PvP Win rate{/}
-UI_20150317_000509	{@st59}Close{/}
-UI_20150317_000510	{@sti5}Total Purchase Amount : %s{/}
-UI_20150317_000511	{@sti5}Total Amount : %s{/}
-UI_20150317_000512	{@st41b} Purchase
-UI_20150317_000513	{memo X}{@st43}Gained materials for a craftable item!
+UI_20150317_000483	{memo X}{@st41b}Proximidad{/}
+UI_20150317_000484	{memo X}{@st41b}Atributos e Información
+UI_20150317_000485	{@st43}Mascota{/}
+UI_20150317_000486	{@st59b}Mascota{nl}{@st59s} - Haz clic en el objeto de la lista para ver más información. {/}
+UI_20150317_000487	{@st59}Mascota Cercana{/}
+UI_20150317_000488	{@st59}Cerrar Ventana de Ayuda{/}
+UI_20150317_000489	{@st59}Ayuda{nl} - Muestra información detallada y consejos. {nl} - Muestra otros temas desde la Lista de Ayuda{/}
+UI_20150317_000490	{@st43}Ayuda{/}
+UI_20150317_000491	Temas de Ayuda
+UI_20150317_000492	{ol}{#AAAA00}{s16}Tiempo Transcurrido : %s
+UI_20150317_000493	{@st43}Frasco de Veneno{/}
+UI_20150317_000494	{@st59}Cerrar IU DE Frasco de Veneno{/}
+UI_20150317_000495	{@st59}Necesidad de escribir{/}
+UI_20150317_000496	{memo X}Cantidad de Veneno: %s
+UI_20150317_000497	{memo X}Objetos que pueden usarse para crear veneno
+UI_20150317_000498	{memo X}Selecionar Todos
+UI_20150317_000499	Haz clic otra vez para deseleccionar todos
+UI_20150317_000500	{memo X}Crear
+UI_20150317_000501	{memo X}mezclar mezclar revolver y mezclar
+UI_20150317_000502	{@st43}Categoría{/}
+UI_20150317_000503	{@st43}Yo{/}
+UI_20150317_000504	{@st43}Objeto{/}
+UI_20150317_000505	{@st43}Nivel{/}
+UI_20150317_000506	{@st43}Fondos{/}
+UI_20150317_000507	{@st43}Evaluar{/}
+UI_20150317_000508	{@st43}índice de Victorías en JcJ{/}
+UI_20150317_000509	{@st59}Cerrar{/}
+UI_20150317_000510	{@sti5}Cantidad Total a Comprar : %s{/}
+UI_20150317_000511	{@sti5}Cantidad Total : %s{/}
+UI_20150317_000512	{@st41b} Comprar
+UI_20150317_000513	{memo X}{@st43}¡Materiales obtenidos para crear un objeto!
 UI_20150317_000514	{@st43}Magnum Opus{/}
-UI_20150317_000515	{@st41}Delete All
-UI_20150317_000516	{memo X}{@st42}Pension object {@stx1}(%s required){/}
-UI_20150317_000517	{@st41}Combine
-UI_20150317_000518	{@st43}Quest{/}
-UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
-UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Abandon{/}
-UI_20150317_000522	${@st43}{s22}Quest Information{/}
-UI_20150317_000523	Mission Complete
-UI_20150317_000524	{@st41}Complete{/}
-UI_20150317_000525	Mission Progress Info
-UI_20150317_000526	{s18}{ol}Quest Information
-UI_20150317_000527	{s16}Time Left
-UI_20150317_000528	Use quest item
-UI_20150317_000529	Quest Hint
-UI_20150317_000530	{@st41}Confirm{/}
-UI_20150317_000531	{@st43}{s22}Quest Completed{/}
-UI_20150317_000532	{@st41b}Complete{/}
-UI_20150317_000533	{@st41}Accept{/}
-UI_20150317_000534	{@st41}Decline{/}
-UI_20150317_000535	{@st44}Go Back{/}
-UI_20150317_000536	Which quest would you like to go back to?
-UI_20150317_000537	{memo X}{@st41b}Quest class name{/}
-UI_20150317_000538	{@st59}Expand slot {/}
-UI_20150317_000539	{@st59}Reduce slot{/}
-UI_20150317_000540	{memo X}{@st59}Summon Companion.{/}
-UI_20150317_000541	{@st44}Menu{/}
-UI_20150317_000542	{@st60}Character Selection{/}
-UI_20150317_000543	{@st60}Logout{/}
-UI_20150317_000544	{@st60}Exit Game{/}
-UI_20150317_000545	{@st60}Game Settings{/}
-UI_20150317_000546	{@st60}Go Back{/}
-UI_20150317_000547	{@st41}Skip Tutorial{/}
-UI_20150317_000548	{@st41}Character Selection{/}
-UI_20150317_000549	{@st41}Logout{/}
-UI_20150317_000550	{@st41}Exit game{/}
-UI_20150317_000551	{@st41}Go Back{/}
-UI_20150317_000552	{@st43}{s22}Gather Raid!
-UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can solve this problem.
-UI_20150317_000554	{@st43}{s22}Game Settings{/}
-UI_20150317_000555	{@sti7}Searching parties for raid...{/}
-UI_20150317_000556	{@st41b}Cancel participation
-UI_20150317_000557	{@st41b}I'll try to solve it!
-UI_20150317_000558	{@st41b}I don't think I can help this time...
-UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}
-UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
-UI_20150317_000561	{@st41b}Increase the number of selections
-UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}
+UI_20150317_000515	{@st41}Eliminar Todos
+UI_20150317_000516	{memo X}{@st42}Pension objeto {@stx1}(%s required){/}
+UI_20150317_000517	{@st41}Combinar
+UI_20150317_000518	{@st43}Misión{/}
+UI_20150317_000519	${@st59b}Misiones{nl}{@st59s} - Cuando adquieras una nueva misión, esta se añadirá a tu Rastreador de Misiones. {nl} - Las misiones principales se muestran en color amarillo, mientras una misión secundaria se muestra en azul. {nl} - Las flechas en los pies de tu personaje te guían la localización de tu misión. {nl} - Si completas una misión, un icono de "Regresar" se mostrará en el Rastreador de Misiones. {nl}    (Teletranspórtate al NPJ de la Misión usando la Barra Espaciadora o un clic del ratón) {nl} - Añade o elimina misiones del Rastreador de Misiones marcando o desmarcando la casilla delante del nombre de la misión. {/}
+UI_20150317_000520	{@st41b}En Progreso{/}
+UI_20150317_000521	{@st41b}Abandonar{/}
+UI_20150317_000522	${@st43}{s22}Información de la Misión{/}
+UI_20150317_000523	Misión Completada
+UI_20150317_000524	{@st41}Completado{/}
+UI_20150317_000525	Información del Progreso de la Misión
+UI_20150317_000526	{s18}{ol}Información de la Misión
+UI_20150317_000527	{s16}Tiempo restante
+UI_20150317_000528	Usar objeto de misión
+UI_20150317_000529	Pista de la Misión
+UI_20150317_000530	{@st41}Confirmar{/}
+UI_20150317_000531	{@st43}{s22}Misión Completada{/}
+UI_20150317_000532	{@st41b}Completado{/}
+UI_20150317_000533	{@st41}Aceptar{/}
+UI_20150317_000534	{@st41}Rechazar{/}
+UI_20150317_000535	{@st44}Volver{/}
+UI_20150317_000536	¿A qué misión te gustaría volver?
+UI_20150317_000537	{memo X}{@st41b}Nombre de la Misión de Clase{/}
+UI_20150317_000538	{@st59}Ampliar ranura {/}
+UI_20150317_000539	{@st59}Reducir ranura{/}
+UI_20150317_000540	{memo X}{@st59}Invocar Mascota.{/}
+UI_20150317_000541	{@st44}Menú{/}
+UI_20150317_000542	{@st60}Selección de Personaje{/}
+UI_20150317_000543	{@st60}Cerrar Sesión{/}
+UI_20150317_000544	{@st60}Salir del Juego{/}
+UI_20150317_000545	{@st60}Ajustes del Juego{/}
+UI_20150317_000546	{@st60}Volver{/}
+UI_20150317_000547	{@st41}Omitar Tutorial{/}
+UI_20150317_000548	{@st41}Selección de Personaje{/}
+UI_20150317_000549	{@st41}Cerrar Sesión{/}
+UI_20150317_000550	{@st41}Salir del Juego{/}
+UI_20150317_000551	{@st41}Volver{/}
+UI_20150317_000552	{@st43}{s22}¡Haced una redada!
+UI_20150317_000553	{@st41b}Los Monstruos se están acercando a las afuras del castillo de la ciudad. Solo tú puedes resolver este problema.
+UI_20150317_000554	{@st43}{s22}Ajustes del Juego{/}
+UI_20150317_000555	{@sti7}Buscando grupos para el asalto...{/}
+UI_20150317_000556	{@st41b}Cancelar participación
+UI_20150317_000557	{@st41b}¡Intentaré resolverlo!
+UI_20150317_000558	{@st41b}No creo que pueda ayudar esta vez...
+UI_20150317_000559	{@sti7}{s24}Seleciona Recompensas del Asalto{/}
+UI_20150317_000560	{@st42b}Tiempo restante {@st43}%s{@st42b} segundos{/}
+UI_20150317_000561	{@st41b}Aumentar el número de selecciones
+UI_20150317_000562	{@43b}{s22} Nº de veces seleccionables : {@st43}%s{/}
 UI_20150317_000563	shadow_box tentativeremoval
-UI_20150317_000564	{@st43}Ranking{/}
-UI_20150317_000565	{@st59}Close Rankings Window{/}
-UI_20150317_000566	{@st41}Monster Kill Top 100{/}
-UI_20150317_000567	{@st41}Damage Top 100{/}
-UI_20150317_000568	{@st41}Money Money Top 100{/}
-UI_20150317_000569	{@st41}Level Up Top 100{/}
-UI_20150317_000570	{@st41b}Menu{/}
-UI_20150317_000571	{@st43}{s22}Enhance Item{/}
-UI_20150317_000572	{@st41b}Selected Item
-UI_20150317_000573	{@st41b}Anvil
-UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
-UI_20150317_000575	{@st41} {s20}Price : %s
-UI_20150317_000576	{@st41b}Enhance{/}
-UI_20150317_000577	{@st59}Start Item Enhancement{/}
-UI_20150317_000578	{@st59}Close Enhancement{/}
-UI_20150317_000579	{@st41b} Would you like to enhance the {@sti9}×%s{/} selected items?{/}
-UI_20150317_000580	{memo X}{@st43}Enhance
-UI_20150317_000581	{@st44}Enhance Item{/}
-UI_20150317_000582	{s24}{b}{#000000}Enhancement Completed!
-UI_20150317_000583	{@st41}Enhance Again{/}
-UI_20150317_000584	{@st41}Close{/}
-UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}
-UI_20150317_000586	Equipped Equipment
-UI_20150317_000587	Carried Equipment
-UI_20150317_000588	{Gr gradation1}Select All{/}
-UI_20150317_000589	Select All
-UI_20150317_000590	{Gr gradation1}Repair{/}
-UI_20150317_000591	{@st43}Repair{/}
-UI_20150317_000592	{memo X}List of items for repair
-UI_20150317_000593	{@st41b}Repair Cost{/}
-UI_20150317_000594	{@st41b}After Repair{/}
-UI_20150317_000595	{@st41b}Repair Equipment{/}
-UI_20150317_000596	Repair the selected equipment.
-UI_20150317_000597	{@st59}Close Item Repair{/}
-UI_20150317_000598	{@st43}Repair Item{/}
-UI_20150317_000599	{@st41}List of items for Repair{/}
-UI_20150317_000600	{@st44}Item Repair{/}
+UI_20150317_000564	{@st43}Clasificación{/}
+UI_20150317_000565	{@st59}Cerrar Ventana de la Clasificación{/}
+UI_20150317_000566	{@st41}Top 100 de Asesinato de Monstruos{/}
+UI_20150317_000567	{@st41}Top 100 Daño{/}
+UI_20150317_000568	{@st41}Top 100 Dinero{/}
+UI_20150317_000569	{@st41}Top 100 Subida de Nivel{/}
+UI_20150317_000570	{@st41b}Menú{/}
+UI_20150317_000571	{@st43}{s22}Mejorar Objeto{/}
+UI_20150317_000572	{@st41b}Objeto Seleccionado
+UI_20150317_000573	{@st41b}Yunque
+UI_20150317_000574	{@st41}{s20}Cantidad de Aciertos en el Yunque:{@st43} %s
+UI_20150317_000575	{@st41} {s20}Precio : %s
+UI_20150317_000576	{@st41b}Mejora{/}
+UI_20150317_000577	{@st59}Empezar Mejora de Objeto{/}
+UI_20150317_000578	{@st59}Cerrar Ventana de Mejoras{/}
+UI_20150317_000579	{@st41b} ¿Te gustaría mejorar {@sti9}×%s{/} objetos seleccionados?{/}
+UI_20150317_000580	{memo X}{@st43}Mejora
+UI_20150317_000581	{@st44}Mejora de Objeto{/}
+UI_20150317_000582	{s24}{b}{#000000}¡Mejora Completada"
+UI_20150317_000583	{@st41}Mejorar de nuevo{/}
+UI_20150317_000584	{@st41}Cerrar{/}
+UI_20150317_000585	{s18}{ol}{gr gradation1}Reparar Equipo{/}
+UI_20150317_000586	Equipar Equipo
+UI_20150317_000587	Equipo transportado
+UI_20150317_000588	{Gr gradation1}Seleccionar Todos{/}
+UI_20150317_000589	Seleccionar Todos
+UI_20150317_000590	{Gr gradation1}Reparar{/}
+UI_20150317_000591	{@st43}Reparar{/}
+UI_20150317_000592	{memo X}Lista de Objetos para Reparar
+UI_20150317_000593	{@st41b}Coste de la Reparación{/}
+UI_20150317_000594	{@st41b}Después de la Reparación{/}
+UI_20150317_000595	{@st41b}Equipo para Reparar{/}
+UI_20150317_000596	Reparar el Equipo Seleccionado
+UI_20150317_000597	{@st59}Cerrar Ventana de Reparar{/}
+UI_20150317_000598	{@st43}Reparación de Objetos{/}
+UI_20150317_000599	{@st41}Lista de Objetos para Reparar{/}
+UI_20150317_000600	{@st44}Reparación de Objetos{/}
 UI_20150317_000601	{@st42}Repair{/}
 UI_20150317_000602	{@st59}Repair as current settings{/}
 UI_20150317_000603	{@st59}Do not repair{/}
