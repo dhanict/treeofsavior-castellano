@@ -1,5 +1,5 @@
 ### Bienvenidos a **Tree of Savior Castellano**
-Este repisotorio ha sido creado con el fin de completar nuestro proyecto **Tree of Savior Castellano**. Con este proyecto queremos ofrecer a los hispanohablantes una traducción precisa y de alta calidad en un castellano neutro.
+Este repositorio ha sido creado con el fin de completar nuestro proyecto **Tree of Savior Castellano**. Con este proyecto queremos ofrecer a los hispanohablantes una traducción precisa y de alta calidad en un castellano neutro.
 
 Además, creemos que los nombres de los monstruos, clases y habilidades (entre otros) no deberían traducirse al castellano en su totalidad para no perder la esencia del juego. Si estáis de acuerdo con las declaraciones anteriores, esta es la traducción que deberíais elegir.
 
