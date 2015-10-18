@@ -598,54 +598,54 @@ UI_20150317_000597	{@st59}Cerrar Ventana de Reparar{/}
 UI_20150317_000598	{@st43}Reparación de Objetos{/}
 UI_20150317_000599	{@st41}Lista de Objetos para Reparar{/}
 UI_20150317_000600	{@st44}Reparación de Objetos{/}
-UI_20150317_000601	{@st42}Repair{/}
-UI_20150317_000602	{@st59}Repair as current settings{/}
-UI_20150317_000603	{@st59}Do not repair{/}
-UI_20150317_000604	{@st44}Resume{/}
-UI_20150317_000605	{memo X}{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}
-UI_20150317_000606	{memo X}{@st41b}Respawn from the nearest Revival Point{/}
-UI_20150317_000607	{memo X}{@st41b}Respawn here (requires %s iCoins) {/}
-UI_20150317_000608	{memo X}{@st41b}Return to field{/}
-UI_20150317_000609	{memo X}{@st41b}Abandon quest and restart{/}
-UI_20150317_000610	{memo X}{@st41b}Try again{/}
-UI_20150317_000611	Sanctuary of Resurrection (70031)
-UI_20150317_000612	This item is required.
-UI_20150317_000613	Rest Quickslot
-UI_20150317_000614	{@st43}Dialog box{/}
-UI_20150317_000615	Temporary Name
-UI_20150317_000616	{memo X}{@st41b} {s18} Your inventory lacks space. 
-UI_20150317_000617	{memo X}You cannot obtain the item because your inventory is full{nl}Make sure you have enough space in your inventory.
-UI_20150317_000618	{@st44}Item Set acquired!{/}
-UI_20150317_000619	Please select an item
-UI_20150317_000620	{memo X}{@st59b} shop {nl} {@st59s} - If you want to bulk purchase an item number, then right-click input {nl} - Use the mouse double right-click the item you want to sell quantity {/}
-UI_20150317_000621	{@st59}Close Shop{/}
-UI_20150317_000622	{@st59}First Page{/}
-UI_20150317_000623	{@st59}Next Page{/}
-UI_20150317_000624	{@st59}Last Page{/}
-UI_20150317_000625	{@st41b}Reset{/}
-UI_20150317_000626	{@st59}Reset Shopping Cart{/}
-UI_20150317_000627	{@st41b}Confirm{/}
-UI_20150317_000628	{@st59}Confirm Transaction{/}
-UI_20150317_000629	{@st43}Shop{/}
-UI_20150317_000630	{@st41b}Items Purchased{/}
-UI_20150317_000631	{@st41b}Items Sold{/}
-UI_20150317_000632	{memo X}{@st41b}Price{/}
+UI_20150317_000601	{@st42}Reparar{/}
+UI_20150317_000602	{@st59}Reparar con los ajustes actuales{/}
+UI_20150317_000603	{@st59}No reparar{/}
+UI_20150317_000604	{@st44}Reanudar{/}
+UI_20150317_000605	{memo X}{@st41b}Eres {/}{s20}{#cc6600}{ol} incapaz de combatir{/}{@st41b}{/}
+UI_20150317_000606	{memo X}{@st41b}Reaparición desde el Punto de Resurreción más cercano{/}
+UI_20150317_000607	{memo X}{@st41b}Reaparecer aquí(requiere %s iCoins) {/}
+UI_20150317_000608	{memo X}{@st41b}Regresar al área{/}
+UI_20150317_000609	{memo X}{@st41b}Abandonar misión y reanudarla{/}
+UI_20150317_000610	{memo X}{@st41b}Intentar de nuevo{/}
+UI_20150317_000611	Santuario de la Resurrección (70031)
+UI_20150317_000612	Este objeto es necesario.
+UI_20150317_000613	Ranura rápida de descanso
+UI_20150317_000614	{@st43}Caja de diálogo{/}
+UI_20150317_000615	Nombre Temporal
+UI_20150317_000616	{memo X}{@st41b} {s18} No tienes espacio en el inventario. 
+UI_20150317_000617	{memo X}No puedes obtener el objeto porque tu inventario está lleno{nl}Asegúrate de que tienes suficiente espacio en tu inventario.
+UI_20150317_000618	{@st44}¡Conjunto de Objeto adquirido!{/}
+UI_20150317_000619	Por favor, selecciona un objeto
+UI_20150317_000620	{memo X}{@st59b} tienda {nl} {@st59s} - Si quieres comprar un número de objetos a la vez, haz clic derecho {nl} - Usa el doble clic derecho en el objeto que quieres vender {/}
+UI_20150317_000621	{@st59}Cerrar Tienda{/}
+UI_20150317_000622	{@st59}Primera Página{/}
+UI_20150317_000623	{@st59}Página Siguiente{/}
+UI_20150317_000624	{@st59}Última Página{/}
+UI_20150317_000625	{@st41b}Restaurar{/}
+UI_20150317_000626	{@st59}Restaurar Carro de la Compra{/}
+UI_20150317_000627	{@st41b}Confirmar{/}
+UI_20150317_000628	{@st59}Confirmar Transacción{/}
+UI_20150317_000629	{@st43}Tienda{/}
+UI_20150317_000630	{@st41b}Objetos Comprados{/}
+UI_20150317_000631	{@st41b}Objetos Vendidos{/}
+UI_20150317_000632	{memo X}{@st41b}Precio{/}
 UI_20150317_000633	{memo X}{@st41b}Balance{/}
-UI_20150317_000634	{memo X}{@st41b}My Sold Items{/}
-UI_20150317_000635	{@st41}Empty slots{/}
+UI_20150317_000634	{memo X}{@st41b}Mis Objetos Vendidos{/}
+UI_20150317_000635	{@st41}Ranuras vacías{/}
 UI_20150317_000636	{@st43}Total{/}
-UI_20150317_000637	{@st41}Settle Transaction{/}
-UI_20150317_000638	{@st41}After Transaction{/}
-UI_20150317_000639	{@st41}Items purchased{/}
+UI_20150317_000637	{@st41}Acordar Transacción{/}
+UI_20150317_000638	{@st41}Después de la Transacción{/}
+UI_20150317_000639	{@st41}Objetos comprados{/}
 UI_20150317_000640	{memo X}{@sti1c}Simony
-UI_20150317_000641	{@st41}Crafting Skills
-UI_20150317_000642	{@st42}Level %s{/}
-UI_20150317_000643	Crafting costs
-UI_20150317_000644	Crafting Qty
-UI_20150317_000645	Approximately %s seconds consumed
-UI_20150317_000646	{@st41}Create
-UI_20150317_000647	{memo X}${@st43}Skills & Atributos{/}
-UI_20150317_000648	{memo X}${@st59}Close Classes & Skills{/}
+UI_20150317_000641	{@st41}Habilidades de Creación
+UI_20150317_000642	{@st42}Nivel %s{/}
+UI_20150317_000643	Costes de la Creación
+UI_20150317_000644	Ctd. de la Creación
+UI_20150317_000645	Aproximadamente %s segundos consumidos
+UI_20150317_000646	{@st41}Crear
+UI_20150317_000647	{memo X}${@st43}Habilidades & Atributos{/}
+UI_20150317_000648	{memo X}${@st59}Cerrar Clases & Habilidades{/}
 UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Atributos learned from your Masters can be seen below your skills. {/}
 UI_20150317_000650	{memo X}{@st41b}Apply{/}
 UI_20150317_000651	{@st59}Apply{/}
