@@ -662,66 +662,66 @@ UI_20150317_000661	{@st41}Funciones Sociales{/}
 UI_20150317_000662	{@st41b}Escribir{/}
 UI_20150317_000663	{@st41}Apuntar{/}
 UI_20150317_000664	{@st59}Apuntar correo{/}
-UI_20150317_000665	{@st41}Start MyPage{/}
-UI_20150317_000666	{@st59}Publish MyPage{/}
-UI_20150317_000667	{@st59}Write greetings{/}
-UI_20150317_000668	{@st41b}1. Menu{/}
-UI_20150317_000669	{@st41}Visit{/}
-UI_20150317_000670	{@st59}Visit MyPage{/}
-UI_20150317_000671	{@st41}Sell{/}
-UI_20150317_000672	{@st59}Sell item{/}
+UI_20150317_000665	{@st41}Empezar Mi Página{/}
+UI_20150317_000666	{@st59}Publicar Mi Página{/}
+UI_20150317_000667	{@st59}Escribir un saludo{/}
+UI_20150317_000668	{@st41b}1. Menú{/}
+UI_20150317_000669	{@st41}Visitar{/}
+UI_20150317_000670	{@st59}Visitar Mmi Página{/}
+UI_20150317_000671	{@st41}Vender{/}
+UI_20150317_000672	{@st59}Vender objeto{/}
 UI_20150317_000673	{@st43}Living{/}
 UI_20150317_000674	{@st59}Close living{/}
-UI_20150317_000675	{@st41}View all{/}
-UI_20150317_000676	{@st41}Create Map{/}
+UI_20150317_000675	{@st41}Ver todo{/}
+UI_20150317_000676	{@st41}Crear mapa{/}
 UI_20150317_000677	{@st41}%s/min (%s in hand){/}
-UI_20150317_000678	Keyboard Warrior
-UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
+UI_20150317_000678	Guerrero del Teclado
+UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Nivel{/}
 UI_20150317_000680	{@st41_yellow}Employment Time
 UI_20150317_000681	{@st43}Graffiti{/}
-UI_20150317_000682	{@st59}Close Spray{/}
-UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}
-UI_20150317_000684	{@st41b}Colors{/}
-UI_20150317_000685	{@st41b}Quantity{/}
-UI_20150317_000686	{@st41b}Brush{/}
-UI_20150317_000687	{@st43}Draw{/}
-UI_20150317_000688	{@st59}Draw the completed picture on the ground.{/}
-UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000690	{@st59}Save drawings{/}
-UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Load{/}{/}
-UI_20150317_000692	{@st59}Load pictures that you drew.{/}
-UI_20150317_000693	{@st59}Selected color 1{/}
-UI_20150317_000694	{@st59}Selected color 2{/}
-UI_20150317_000695	{@st59}Color List{/}
-UI_20150317_000696	{@st59}Selected Brush{/}
-UI_20150317_000697	{@st59}Brush 1{/}
-UI_20150317_000698	{@st59}Brush 2{/}
-UI_20150317_000699	{@st59}Brush 3{/}
-UI_20150317_000700	{@st59}Brush 4{/}
-UI_20150317_000701	{@st59}Brush 5{/}
-UI_20150317_000702	{@st59}Brush 6{/}
-UI_20150317_000703	{@st49}People who like this{/}
-UI_20150317_000704	{s20}{#050505}Describe whatever
-UI_20150317_000705	{@st41} All {/}
-UI_20150317_000706	{@st41} Party {/}
-UI_20150317_000707	{@st41} Monster {/}
-UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : By leveling up, you can earn status points that you can use to enhance the 5 statuses to become more powerful. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
+UI_20150317_000682	{@st59}Cerrar Pulverizador{/}
+UI_20150317_000683	{@st41b}Consejo : Haz un dibujo en el recuadro de abajo{/}
+UI_20150317_000684	{@st41b}Colores{/}
+UI_20150317_000685	{@st41b}Cantidad{/}
+UI_20150317_000686	{@st41b}Brocha{/}
+UI_20150317_000687	{@st43}Dibujar{/}
+UI_20150317_000688	{@st59}Dibuja la imagen completa en el suelo.{/}
+UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Guardar{/}{/}
+UI_20150317_000690	{@st59}Guardar dibujos{/}
+UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Cargar{/}{/}
+UI_20150317_000692	{@st59}Cargar imágenes que dibujaste.{/}
+UI_20150317_000693	{@st59}Seleccionar color 1{/}
+UI_20150317_000694	{@st59}Seleccionar color 2{/}
+UI_20150317_000695	{@st59}Lista de Colores{/}
+UI_20150317_000696	{@st59}Brocha Seleccionada{/}
+UI_20150317_000697	{@st59}Brocha 1{/}
+UI_20150317_000698	{@st59}Brocha 2{/}
+UI_20150317_000699	{@st59}Brocha 3{/}
+UI_20150317_000700	{@st59}Brocha 4{/}
+UI_20150317_000701	{@st59}Brocha 5{/}
+UI_20150317_000702	{@st59}Brocha 6{/}
+UI_20150317_000703	{@st49}Personas a las que le gusta esto{/}
+UI_20150317_000704	{s20}{#050505}Describe lo que sea
+UI_20150317_000705	{@st41} Todos {/}
+UI_20150317_000706	{@st41} Grupo {/}
+UI_20150317_000707	{@st41} Monstruo {/}
+UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Puntos de Estadística Restantes ▶ {@st46}%s
+UI_20150317_000709	{@st59b}Mi Información{nl}{@st59s}- Estadística : Subiendo de nivel, puedes ganar puntos de Estadística que se pueden utilizar para volverte más poderoso. {nl}- Información : Información sobre tu personaje basado en tu estado y equipo actual. {nl}- Título : Los Títulos se obtienen realizando logros. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
-UI_20150317_000711	{memo X}{@st41b}Title{/}
-UI_20150317_000712	Show Class
-UI_20150317_000713	Show Character Name
-UI_20150317_000714	{@st59}Change Character Name{/}
-UI_20150317_000715	{memo X}{@st41b}Apply
-UI_20150317_000716	{@st59}Apply{/}
-UI_20150317_000717	{@st41b}Cancel
-UI_20150317_000718	{memo X}{@st59}Cancel{/}
-UI_20150317_000719	PC Name
-UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
-UI_20150317_000721	{memo X}{@st41_yellow}Mercenary Skills
-UI_20150317_000722	{@st43}Attack Effects{/}
-UI_20150317_000723	{@st43}Defense Effects{/}
-UI_20150317_000724	{@st43}Stat{/}
+UI_20150317_000711	{memo X}{@st41b}Título{/}
+UI_20150317_000712	Mostrar Clase
+UI_20150317_000713	Mostrar Nombre del Personaje
+UI_20150317_000714	{@st59}Cambiar Nombre del Personaje{/}
+UI_20150317_000715	{memo X}{@st41b}Aplicar
+UI_20150317_000716	{@st59}Aplicar{/}
+UI_20150317_000717	{@st41b}Cancelar
+UI_20150317_000718	{memo X}{@st59}Cancelar{/}
+UI_20150317_000719	Nombre del PJ
+UI_20150317_000720	{@st41_yellow}Nivel: {@st41}%s{/}
+UI_20150317_000721	{memo X}{@st41_yellow}Habilidades del Mercenario
+UI_20150317_000722	{@st43}Efectos de Ataque{/}
+UI_20150317_000723	{@st43}Efectos de Defensa{/}
+UI_20150317_000724	{@st43}Estadística{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
 UI_20150317_000726	{@st59}Character Information (F1){/}
 UI_20150317_000727	{@st59}Inventory (F2){/}
