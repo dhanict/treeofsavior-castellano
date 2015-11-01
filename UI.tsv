@@ -323,9 +323,9 @@ UI_20150317_000322	{@st56}Overkill{/}
 UI_20150317_000323	{@st56}Shot{/}
 UI_20150317_000324	{@st56}Dead{/}
 UI_20150317_000325	Spell Power
-UI_20150317_000326	Defense
-UI_20150317_000327	Magic Resistance
-UI_20150317_000328	Critical Rate
+UI_20150317_000326	Defensa
+UI_20150317_000327	Resitencia Mágica
+UI_20150317_000328	Daño Crítico
 UI_20150317_000329	${@st43}Ranura{/}
 UI_20150317_000330	{@st59}Cerrar la Administración de Ranuras{/}
 UI_20150317_000331	Por favor, inserta tus objetos
@@ -723,40 +723,40 @@ UI_20150317_000722	{@st43}Efectos de Ataque{/}
 UI_20150317_000723	{@st43}Efectos de Defensa{/}
 UI_20150317_000724	{@st43}Estadística{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Character Information (F1){/}
-UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	${@st59}Classes & Skills (F3){/}
-UI_20150317_000729	{@st59}Adventure Journal (F4){/}
-UI_20150317_000730	{@st59}Quest (F5){/}
-UI_20150317_000731	{@st59}Party (F6){/}
-UI_20150317_000732	{@st59}Friend (F7){/}
+UI_20150317_000726	{@st59}Información del personaje (F1){/}
+UI_20150317_000727	{@st59}Inventario (F2){/}
+UI_20150317_000728	${@st59}Clases y habilidades (F3){/}
+UI_20150317_000729	{@st59}Registro de Aventura (F4){/}
+UI_20150317_000730	{@st59}Misiones (F5){/}
+UI_20150317_000731	{@st59}Grupo (F6){/}
+UI_20150317_000732	{@st59}Amigos (F7){/}
 UI_20150317_000733	{@st59}Macro (F8) {/}
-UI_20150317_000734	{@st59}Companion (F9) {/}
-UI_20150317_000735	{@st59}Help (F10) {/}
-UI_20150317_000736	{@st59}System Menu (Esc){/}
+UI_20150317_000734	{@st59}Mascotas (F9) {/}
+UI_20150317_000735	{@st59}Ayuda (F10) {/}
+UI_20150317_000736	{@st59}Opciones del menú (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
-UI_20150317_000738	Help(F1)
-UI_20150317_000739	Contents
-UI_20150317_000740	View Details
-UI_20150317_000741	{@st43}Game Settings{/}
-UI_20150317_000742	{@st43}Game{/}
-UI_20150317_000743	{memo X}{@st41b}Show acquired EXP{/}
-UI_20150317_000744	{memo X}{@st41b}Show Character Name{/}
+UI_20150317_000738	Ayuda(F1)
+UI_20150317_000739	Contenido
+UI_20150317_000740	Ver detalles
+UI_20150317_000741	{@st43}Opciones del Juego{/}
+UI_20150317_000742	{@st43}Juego{/}
+UI_20150317_000743	{memo X}{@st41b}Mostrar experiencia adquirida{/}
+UI_20150317_000744	{memo X}{@st41b}Mostras nombre del personaje{/}
 UI_20150317_000745	{memo X}{@st41b}Show Team Name only{/}
 UI_20150317_000746	{memo X}{@st41b}Show Quest Guide{/}
-UI_20150317_000747	{@st43}Resolution{/}
-UI_20150317_000748	{@st43}Graphics{/}
-UI_20150317_000749	{memo X}{@st41b}Full Screen{/}
-UI_20150317_000750	{memo X}{@st41b}Windowed Mode{/}
-UI_20150317_000751	{@st43}Sound{/}
-UI_20150317_000752	{memo X}{@st41b}Sound Effects Volume (%s){/}
-UI_20150317_000753	{memo X}{@st41b}BGM Volume (%s){/}
-UI_20150317_000754	{memo X}{@st41b}Volume (%s){/}
-UI_20150317_000755	{@st43}{b}Select Language{/}
-UI_20150317_000756	{@st59}Close Settings{/}
+UI_20150317_000747	{@st43}Resolución{/}
+UI_20150317_000748	{@st43}Gráficos{/}
+UI_20150317_000749	{memo X}{@st41b}Pantalla completa{/}
+UI_20150317_000750	{memo X}{@st41b}Modo Ventana{/}
+UI_20150317_000751	{@st43}Sonido{/}
+UI_20150317_000752	{memo X}{@st41b}Volumen de efectos de sonido (%s){/}
+UI_20150317_000753	{memo X}{@st41b}BGM Volumen (%s){/}
+UI_20150317_000754	{memo X}{@st41b}Volumen (%s){/}
+UI_20150317_000755	{@st43}{b}Seleccionar idioma{/}
+UI_20150317_000756	{@st59}Cerrar opciones{/}
 UI_20150317_000757	{memo X}Lowest-mode {@st41b} {/}
-UI_20150317_000758	{@st41b}View{/}
-UI_20150317_000759	{@st59}Credits{/}
+UI_20150317_000758	{@st41b}Ver{/}
+UI_20150317_000759	{@st59}Créditos{/}
 UI_20150317_000760	Target buff window
 UI_20150317_000761	{@st46}IMC's picture
 UI_20150317_000762	{@st46}%s's picture
